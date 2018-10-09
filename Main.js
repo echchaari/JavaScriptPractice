@@ -19,7 +19,7 @@
         }
 
     }
-    PrintRev(9);
+    //PrintRev(9);
 
     //--------------Question 2------ with While loop//
    
@@ -31,7 +31,7 @@
         i--;
        }
    }
-   //PrintRev(9);
+   PrintRev(9);
 
 
    //-------------Question 3---------------//
